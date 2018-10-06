@@ -156,7 +156,7 @@ Calibrating the sensor
 Range Sensor Check
 ==================
 
-Check the EKF5.meaRng message in the flashlog from your flow
+Check the xKF5.rng (the message name will change depending on what EKF version you are running) message in the flashlog from your flow
 sensor calibration test. Check the following:
 
 #. There is continuous range measurement.
