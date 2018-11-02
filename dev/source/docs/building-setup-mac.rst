@@ -35,6 +35,7 @@ Setup steps
        brew update
        brew install genromfs
        brew install gcc-arm-none-eabi
+       brew install cmake
 
 #. Install the latest version of awk using brew (make sure
    **/usr/local/bin** takes precedence in your path):
