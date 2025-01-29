@@ -1,7 +1,7 @@
 .. _gsoc-ideas-list:
     
 ========================================
-List of Suggested Projects for GSoC 2024
+List of Suggested Projects for GSoC 2025
 ========================================
 
 This is a list of projects suggested by ArduPilot developers for `GSoC 2024 <https://summerofcode.withgoogle.com/>`__. These are only suggestions so if you have your own ideas then please discuss them on the `ArduPilot Discord Chat <https://ardupilot.org/discord>`__ or on the `discuss server here <https://discuss.ardupilot.org/c/google-summer-of-code>`__.  We have a lot of talented developers in the ArduPilot dev team who would love to mentor good students for GSoC 2024.
@@ -176,6 +176,17 @@ some lua, although most of the code would be in JavaScript.
 
 Projects Completed in past years
 --------------------------------
+In 2024, students completed the following projects:
+
+- `MAVProxy AI Chat Enhancements <https://discuss.ardupilot.org/t/gsoc-2024-wrapping-up-mavproxy-ai-chat-enhancements/122793>`__
+
+- `Visual Follow-me using AI <https://discuss.ardupilot.org/t/gsoc-2024-wrapping-up-visual-follow-me/123232>`__
+
+- `All-in-One System Identification Toolkit for ArduPilot Platforms <https://discuss.ardupilot.org/t/gsoc24-all-in-one-system-identification-toolkit-for-ardupilot-update/121116/5>`__
+
+- `High Altitude Non-GPS Position Estimation <https://discuss.ardupilot.org/t/gsoc-2024-wrapping-up-high-altitude-non-gps-navigation/122905>`__
+
+
 In 2023, students completed the following projects:
 
 - `Improvements for ROS2 Support for Ardupilot <https://discuss.ardupilot.org/t/gsoc-23-wrapping-up-improvements-to-the-native-dds-support-in-ardupilot/105643>`__
