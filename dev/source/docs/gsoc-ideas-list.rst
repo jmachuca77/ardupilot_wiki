@@ -1,10 +1,10 @@
 .. _gsoc-ideas-list:
     
 ========================================
-List of Suggested Projects for GSoC 2025
+List of Suggested Projects for GSoC 2026
 ========================================
 
-This is a list of projects suggested by ArduPilot developers for `GSoC 2025 <https://summerofcode.withgoogle.com/>`__. These are only suggestions so if you have your own ideas then please discuss them on the `ArduPilot Discord Chat <https://ardupilot.org/discord>`__ or on the `discuss server here <https://discuss.ardupilot.org/c/google-summer-of-code>`__
+This is a list of projects suggested by ArduPilot developers for `GSoC 2026 <https://summerofcode.withgoogle.com/>`__. These are only suggestions so if you have your own ideas then please discuss them on the `ArduPilot Discord Chat <https://ardupilot.org/discord>`__ or on the `discuss server here <https://discuss.ardupilot.org/c/google-summer-of-code>`__
 
 - Non-GPS Position Estimation Using 3D Camera and Pre-Generated Map
 - AI Chat WebTool for use with MP and/or QGC
@@ -18,7 +18,7 @@ See lower down on this page for more details on each project
 Timeline
 ========
 
-The timeline for `GSoC 2025 is here <https://developers.google.com/open-source/gsoc/timeline>`__
+The timeline for `GSoC 2026 is here <https://developers.google.com/open-source/gsoc/timeline>`__
 
 How to improve your chances of being accepted
 =============================================
