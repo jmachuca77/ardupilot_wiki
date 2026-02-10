@@ -43,6 +43,106 @@ The goal of this project is create a fleet management web tool that helps compan
 
 Funding will be provided for hardware and cloud server as required.
 
+AI-Assisted Log Diagnosis & Root-Cause Detection
+===============================================
+
+Description
+-----------
+
+ArduPilot produces detailed onboard flight logs that are essential for debugging crashes,
+tuning performance, and diagnosing configuration errors. However, interpreting these logs
+requires significant developer expertise and time, creating a support burden for both users
+and maintainers.
+
+This project aims to develop an AI-assisted diagnostic system capable of automatically
+analyzing ArduPilot logs and identifying likely root causes of failures or abnormal
+behavior. The system should combine traditional rule-based analysis with modern machine
+learning or statistical techniques to detect known failure signatures, parameter
+misconfigurations, sensor anomalies, and control instability patterns.
+
+The final solution should integrate with existing ArduPilot log-analysis workflows and
+provide clear, human-readable diagnostic summaries and suggested corrective actions.
+
+Expected outcomes
+-----------------
+
+- Dataset of categorized ArduPilot flight logs for training and evaluation
+- Log-parsing and feature-extraction pipeline
+- AI or statistical model for failure classification and anomaly detection
+- Human-readable diagnostic report generator with probable root cause and confidence level
+- Integration with existing ArduPilot log-analysis tools or a standalone web/CLI interface
+- Documentation and example usage for developers and end users
+
+Skills required
+---------------
+
+- Python or C++ programming
+- Basic machine learning or statistical analysis
+- Signal processing or time-series analysis
+- Familiarity with ArduPilot logs and MAVLink (helpful but not required)
+
+Difficulty
+----------
+
+Medium to Hard
+
+Size
+----
+
+175–350 hours
+
+
+Real-Time Companion-Computer Health Monitoring & Failsafe Framework
+===================================================================
+
+Description
+-----------
+
+Modern ArduPilot vehicles increasingly depend on companion computers for perception,
+navigation, AI inference, and mission-level autonomy. Failures of the companion computer
+(such as process crashes, overload, thermal shutdown, or communication loss) can create
+significant safety risks, yet health monitoring and standardized failsafe handling are
+currently limited and inconsistent across integrations.
+
+This project will design and implement a unified companion-computer health monitoring and
+failsafe framework for ArduPilot. The system should define a MAVLink-based health reporting
+protocol, monitor critical metrics (CPU/GPU load, memory, heartbeat, temperature, and
+process status), and trigger configurable failsafe behaviors when health conditions degrade
+or communication is lost.
+
+The result should improve system-level safety and reliability for autonomy-enabled vehicles
+across Copter, Plane, Rover, and Sub platforms.
+
+Expected outcomes
+-----------------
+
+- Defined MAVLink message or protocol for companion-computer health reporting
+- Reference health-monitoring daemon for Linux-based companion computers
+- ArduPilot firmware support for interpreting health status and triggering failsafes
+- Configurable failsafe behaviors and parameters
+- SITL and real-hardware validation scenarios
+- Developer and user documentation
+
+Skills required
+---------------
+
+- C++ (ArduPilot firmware)
+- Python or C++ (companion-computer tools)
+- MAVLink protocol knowledge
+- Linux system monitoring concepts
+- Embedded or robotics systems experience (helpful)
+
+Difficulty
+----------
+
+Medium to Hard
+
+Size
+----
+
+175–350 hours
+
+
 Projects Completed in past years
 --------------------------------
 
